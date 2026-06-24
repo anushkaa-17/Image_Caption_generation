@@ -1,0 +1,6 @@
+.venv/
+.vscode/
+Flickr8k_Dataset/
+Flickr8k_text/
+features_attention.p
+*.h5
